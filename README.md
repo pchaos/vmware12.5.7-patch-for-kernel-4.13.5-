@@ -1,7 +1,11 @@
 # vmware12.5.7-patch-for-kernel-4.13.5
 
 VMware – Not Working with Fedora 26 – GCC 7, and Workarounds..
+
 see http://rglinuxtech.com/?p=1939
+
+https://communities.vmware.com/message/2688967
+
 
 cat buildVMWareKernelModules.sh
 #!/bin/bash
